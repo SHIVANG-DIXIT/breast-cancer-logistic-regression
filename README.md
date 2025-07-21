@@ -1,5 +1,5 @@
-# breast-cancer-logistic-regression
-Predicting tumor malignancy using logistic regression on Breast Cancer dataset
+# breast-cancer-machine-learning
+Predicting tumor malignancy using logistic regression and random forest classifier on Breast Cancer dataset
 
 # Breast Cancer Prediction using Machine Learning
 📌 Project Overview
